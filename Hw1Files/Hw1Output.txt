@@ -1,0 +1,1809 @@
+PRINTED FROM LINKED LIST
+Position: 200  Artist: 5 Seconds of Summer Track Name: "Youngblood"
+
+Position: 116  Artist: Alan Walker Track Name: "Alone Pt. II"
+
+Position: 107  Artist: Ali Gatie Track Name: "It's You"
+
+Position: 103  Artist: Ant Saunders Track Name: "Yellow Hearts"
+
+Position: 45  Artist: Anuel AA Track Name: "China"
+
+Position: 158  Artist: Arcangel Track Name: "Infeliz"
+
+Position: 169  Artist: Ariana Grande Track Name: "thank u next"
+
+Position: 87  Artist: Ariana Grande Track Name: "7 rings"
+
+Position: 130  Artist: Arizona Zervas Track Name: "FML"
+
+Position: 8  Artist: Arizona Zervas Track Name: "ROXANNE"
+
+Position: 154  Artist: Ava Max Track Name: "Sweet but Psycho"
+
+Position: 84  Artist: Bad Bunny Track Name: "Callaita"
+
+Position: 31  Artist: Bad Bunny Track Name: "Vete"
+
+Position: 164  Artist: benny blanco Track Name: "Eastside (with Halsey & Khalid)"
+
+Position: 23  Artist: Billie Eilish Track Name: "bad guy"
+
+Position: 88  Artist: Billie Eilish Track Name: "lovely (with Khalid)"
+
+Position: 92  Artist: Billie Eilish Track Name: "when the party's over"
+
+Position: 172  Artist: Billie Eilish Track Name: "bury a friend"
+
+Position: 173  Artist: Billie Eilish Track Name: "ocean eyes"
+
+Position: 13  Artist: Billie Eilish Track Name: "everything i wanted"
+
+Position: 137  Artist: blackbear Track Name: "me & ur ghost"
+
+Position: 29  Artist: blackbear Track Name: "hot girl bummer"
+
+Position: 46  Artist: BROCKHAMPTON Track Name: "SUGAR"
+
+Position: 19  Artist: BTS Track Name: "Black Swan"
+
+Position: 165  Artist: BTS Track Name: "Boy With Luv (feat. Halsey)"
+
+Position: 176  Artist: Camila Cabello Track Name: "Liar"
+
+Position: 25  Artist: Camila Cabello Track Name: "My Oh My (feat. DaBaby)"
+
+Position: 143  Artist: Camilo Track Name: "Tutu"
+
+Position: 160  Artist: Chris Brown Track Name: "No Guidance (feat. Drake)"
+
+Position: 183  Artist: Conan Gray Track Name: "Maniac"
+
+Position: 97  Artist: DaBaby Track Name: "VIBEZ"
+
+Position: 181  Artist: DaBaby Track Name: "Suge"
+
+Position: 89  Artist: DaBaby Track Name: "TOES (feat. Lil Baby & Moneybagg Yo)"
+
+Position: 33  Artist: DaBaby Track Name: "BOP"
+
+Position: 191  Artist: Daddy Yankee Track Name: "Con Calma"
+
+Position: 101  Artist: Daddy Yankee Track Name: "Que Tire Pa Lante"
+
+Position: 114  Artist: Dalex Track Name: "Bellaquita - Remix"
+
+Position: 41  Artist: Dalex Track Name: "Hola - Remix"
+
+Position: 67  Artist: Dan + Shay Track Name: "10000 Hours (with Justin Bieber)"
+
+Position: 199  Artist: Dean Lewis Track Name: "Be Alright"
+
+Position: 28  Artist: Dimelo Flow Track Name: "Sigues Con El"
+
+Position: 174  Artist: DJ Snake Track Name: "Loco Contigo (feat. J. Balvin & Tyga)"
+
+Position: 43  Artist: Doja Cat Track Name: "Say So"
+
+Position: 188  Artist: Dominic Fike Track Name: "3 Nights"
+
+Position: 37  Artist: Don Toliver Track Name: "No Idea"
+
+Position: 131  Artist: Drake Track Name: "Money In The Grave (Drake ft. Rick Ross)"
+
+Position: 10  Artist: Dua Lipa Track Name: "Don't Start Now"
+
+Position: 142  Artist: Ed Sheeran Track Name: "Shape of You"
+
+Position: 50  Artist: Ed Sheeran Track Name: "I Don't Care (with Justin Bieber)"
+
+Position: 60  Artist: Ed Sheeran Track Name: "Beautiful People (feat. Khalid)"
+
+Position: 65  Artist: Ed Sheeran Track Name: "South of the Border (feat. Camila Cabello & Cardi B)"
+
+Position: 171  Artist: Ed Sheeran Track Name: "Perfect"
+
+Position: 146  Artist: Ellie Goulding Track Name: "Hate Me (with Juice WRLD)"
+
+Position: 52  Artist: Eminem Track Name: "In Too Deep"
+
+Position: 90  Artist: Eminem Track Name: "Never Love Again"
+
+Position: 57  Artist: Eminem Track Name: "Premonition - Intro"
+
+Position: 94  Artist: Eminem Track Name: "Farewell"
+
+Position: 30  Artist: Eminem Track Name: "You Gonâ€™ Learn (feat. Royce Da 5'9"" & White Gold)"
+
+Position: 100  Artist: Eminem Track Name: "Alfred - Interlude"
+
+Position: 26  Artist: Eminem Track Name: "Darkness"
+
+Position: 102  Artist: Eminem Track Name: "Little Engine"
+
+Position: 44  Artist: Eminem Track Name: "Leaving Heaven (feat. Skylar Grey)"
+
+Position: 70  Artist: Eminem Track Name: "No Regrets (feat. Don Toliver)"
+
+Position: 113  Artist: Eminem Track Name: "I Will (feat. KXNG Crooked Royce Da 5'9"" & Joell Ortiz)"
+
+Position: 72  Artist: Eminem Track Name: "Lock It Up (feat. Anderson .Paak)"
+
+Position: 73  Artist: Eminem Track Name: "Marsh"
+
+Position: 74  Artist: Eminem Track Name: "Stepdad"
+
+Position: 83  Artist: Eminem Track Name: "Yah Yah (feat. Royce Da 5'9""Black Thought Q-Tip & Denaun)"
+
+Position: 32  Artist: Eminem Track Name: "Unaccommodating (feat. Young M.A)"
+
+Position: 4  Artist: Eminem Track Name: "Godzilla (feat. Juice WRLD)"
+
+Position: 22  Artist: Eminem Track Name: "Those Kinda Nights (feat. Ed Sheeran)"
+
+Position: 6  Artist: Future Track Name: "Life Is Good (feat. Drake)"
+
+Position: 167  Artist: Gambi Track Name: "Dans l'espace (feat. Heuss l'EnfoirÃ©)"
+
+Position: 16  Artist: Halsey Track Name: "You should be sad"
+
+Position: 80  Artist: Halsey Track Name: "Without Me"
+
+Position: 115  Artist: Halsey Track Name: "Still Learning"
+
+Position: 112  Artist: Halsey Track Name: "Graveyard"
+
+Position: 121  Artist: Harry Styles Track Name: "Lights Up"
+
+Position: 149  Artist: Harry Styles Track Name: "Falling"
+
+Position: 39  Artist: Harry Styles Track Name: "Watermelon Sugar"
+
+Position: 24  Artist: Harry Styles Track Name: "Adore You"
+
+Position: 129  Artist: Henrique & Juliano Track Name: "Liberdade ProvisÃ³ria"
+
+Position: 124  Artist: Imagine Dragons Track Name: "Believer"
+
+Position: 99  Artist: J Balvin Track Name: "Blanco"
+
+Position: 195  Artist: J Balvin Track Name: "QUE PRETENDES"
+
+Position: 56  Artist: J Balvin Track Name: "Morado"
+
+Position: 78  Artist: J Balvin Track Name: "LA CANCIÃ“N"
+
+Position: 196  Artist: J. Cole Track Name: "MIDDLE CHILD"
+
+Position: 136  Artist: JACKBOYS Track Name: "OUT WEST (feat. Young Thug)"
+
+Position: 161  Artist: James Arthur Track Name: "Say You Won't Let Go"
+
+Position: 81  Artist: Jhay Cortez Track Name: "No Me Conoce - Remix"
+
+Position: 117  Artist: Jonas Brothers Track Name: "Sucker"
+
+Position: 27  Artist: Jonas Brothers Track Name: "What A Man Gotta Do"
+
+Position: 175  Artist: Jonas Brothers Track Name: "Only Human"
+
+Position: 68  Artist: JP Saxe Track Name: "If The World Was Ending (feat. Julia Michaels)"
+
+Position: 53  Artist: Juice WRLD Track Name: "Bandit (with YoungBoy Never Broke Again)"
+
+Position: 127  Artist: Juice WRLD Track Name: "Robbery"
+
+Position: 61  Artist: Juice WRLD Track Name: "Lucid Dreams"
+
+Position: 76  Artist: Juju Track Name: "Kein Wort"
+
+Position: 5  Artist: Justin Bieber Track Name: "Yummy"
+
+Position: 193  Artist: Justin Quiles Track Name: "DJ No Pare (feat. Zion  Dalex & Lenny TavÃ¡rez) - Remix"
+
+Position: 3  Artist: KAROL G Track Name: "Tusa"
+
+Position: 64  Artist: Khalid Track Name: "Eleven"
+
+Position: 163  Artist: Kina Track Name: "Can We Kiss Forever?"
+
+Position: 159  Artist: Kina Track Name: "Get You The Moon (feat. SnÃ¸w)"
+
+Position: 166  Artist: Kygo Track Name: "Higher Love"
+
+Position: 96  Artist: Lady Gaga Track Name: "Shallow"
+
+Position: 108  Artist: Lauv Track Name: "Mean It"
+
+Position: 197  Artist: Lauv Track Name: "I Like Me Better"
+
+Position: 122  Artist: Lewis Capaldi Track Name: "Bruises"
+
+Position: 17  Artist: Lewis Capaldi Track Name: "Someone You Loved"
+
+Position: 35  Artist: Lewis Capaldi Track Name: "Before You Go"
+
+Position: 126  Artist: Lil Baby Track Name: "Sum 2 Prove"
+
+Position: 123  Artist: Lil Baby Track Name: "Woah"
+
+Position: 104  Artist: Lil Nas X Track Name: "Old Town Road - Remix"
+
+Position: 106  Artist: Lil Tecca Track Name: "Ransom"
+
+Position: 58  Artist: Lil Uzi Vert Track Name: "Futsal Shuffle 2020"
+
+Position: 141  Artist: Lizzo Track Name: "Good as Hell (feat. Ariana Grande) - Remix"
+
+Position: 162  Artist: Lizzo Track Name: "Truth Hurts"
+
+Position: 109  Artist: Lunay Track Name: "Aventura"
+
+Position: 151  Artist: Lunay Track Name: "Soltera - Remix"
+
+Position: 91  Artist: Mac Miller Track Name: "Woods"
+
+Position: 38  Artist: Mac Miller Track Name: "Blue World"
+
+Position: 62  Artist: Mac Miller Track Name: "I Can See"
+
+Position: 69  Artist: Mac Miller Track Name: "Hand Me Downs"
+
+Position: 148  Artist: Mac Miller Track Name: "Once A Day"
+
+Position: 49  Artist: Mac Miller Track Name: "Circles"
+
+Position: 98  Artist: Mac Miller Track Name: "Everybody"
+
+Position: 118  Artist: Mac Miller Track Name: "Surf"
+
+Position: 157  Artist: Mac Miller Track Name: "Hands"
+
+Position: 71  Artist: Mac Miller Track Name: Complicated
+
+Position: 14  Artist: Mac Miller Track Name: "Good News"
+
+Position: 139  Artist: Mac Miller Track Name: "That's On Me"
+
+Position: 168  Artist: Maes Track Name: "Blanche"
+
+Position: 11  Artist: Maroon 5 Track Name: "Memories"
+
+Position: 170  Artist: Maroon 5 Track Name: "Girls Like You (feat. Cardi B)"
+
+Position: 111  Artist: Marshmello Track Name: "Happier"
+
+Position: 132  Artist: Matthew Wilder Track Name: "Break My Stride"
+
+Position: 144  Artist: MEDUZA Track Name: "Piece Of Your Heart"
+
+Position: 42  Artist: MEDUZA Track Name: "Lose Control"
+
+Position: 54  Artist: Mustard Track Name: "Ballin' (with Roddy Ricch)"
+
+Position: 63  Artist: Nicky Jam Track Name: "MuÃ©velo"
+
+Position: 66  Artist: Nicky Jam Track Name: "Whine Up"
+
+Position: 110  Artist: Noah Cyrus Track Name: "July"
+
+Position: 185  Artist: Olivia Rodrigo Track Name: "All I Want - From ""High School Musical: The Musical: The Series"""
+
+Position: 192  Artist: Panic! At The Disco Track Name: "High Hopes"
+
+Position: 182  Artist: Piso 21 Track Name: "Pa' Olvidarme De Ella"
+
+Position: 134  Artist: Post Malone Track Name: "rockstar (feat. 21 Savage)"
+
+Position: 12  Artist: Post Malone Track Name: "Circles"
+
+Position: 119  Artist: Post Malone Track Name: "Wow."
+
+Position: 189  Artist: Post Malone Track Name: "Better Now"
+
+Position: 51  Artist: Post Malone Track Name: "Sunflower - Spider-Man: Into the Spider-Verse"
+
+Position: 95  Artist: Post Malone Track Name: "Goodbyes (Feat. Young Thug)"
+
+Position: 138  Artist: Queen Track Name: "Bohemian Rhapsody - 2011 Mix"
+
+Position: 40  Artist: Rauw Alejandro Track Name: "Fantasias"
+
+Position: 128  Artist: Red Velvet Track Name: "Psycho"
+
+Position: 34  Artist: Regard Track Name: "Ride It"
+
+Position: 125  Artist: Reik Track Name: "Indeciso"
+
+Position: 120  Artist: Rich Music LTD Track Name: "Quizas"
+
+Position: 150  Artist: Rich Music LTD Track Name: "Perreo en La Luna"
+
+Position: 180  Artist: Riton Track Name: "Turn Me On (feat. Vula)"
+
+Position: 2  Artist: Roddy Ricch Track Name: "The Box"
+
+Position: 82  Artist: Roddy Ricch Track Name: "High Fashion (feat. Mustard)"
+
+Position: 184  Artist: ROSALÃ�A Track Name: "Con Altura"
+
+Position: 145  Artist: ROSALÃ�A Track Name: "Yo x Ti Tu x Mi"
+
+Position: 59  Artist: SAINt JHN Track Name: "Roses - Imanbek Remix"
+
+Position: 153  Artist: Sam Smith Track Name: "Dancing With A Stranger (with Normani)"
+
+Position: 93  Artist: Sam Smith Track Name: "How Do You Sleep?"
+
+Position: 194  Artist: Sech Track Name: "Otro Trago - Remix"
+
+Position: 133  Artist: Sech Track Name: "Si Te Vas"
+
+Position: 20  Artist: Selena Gomez Track Name: "Lose You To Love Me"
+
+Position: 147  Artist: Selena Gomez Track Name: "Look At Her Now"
+
+Position: 21  Artist: Selena Gomez Track Name: "Rare"
+
+Position: 79  Artist: SHAED Track Name: "Trampoline (with ZAYN)"
+
+Position: 55  Artist: Shakira Track Name: "Me Gusta"
+
+Position: 190  Artist: Shawn Mendes Track Name: "If I Can't Have You"
+
+Position: 18  Artist: Shawn Mendes Track Name: "SeÃ±orita"
+
+Position: 105  Artist: Stormzy Track Name: "Own It (feat. Ed Sheeran & Burna Boy)"
+
+Position: 140  Artist: Surfaces Track Name: "Sunday Best"
+
+Position: 85  Artist: Tainy Track Name: "Adicto (with Anuel AA & Ozuna)"
+
+Position: 15  Artist: The Black Eyed Peas Track Name: "RITMO (Bad Boys For Life)"
+
+Position: 7  Artist: The Weeknd Track Name: "Blinding Lights"
+
+Position: 77  Artist: The Weeknd Track Name: "Heartless"
+
+Position: 179  Artist: Thiaguinho MT Track Name: "Tudo Ok"
+
+Position: 135  Artist: Tones and I Track Name: "Never Seen the Rain"
+
+Position: 1  Artist: Tones and I Track Name: "Dance Monkey"
+
+Position: 152  Artist: Travis Scott Track Name: "SICKO MODE"
+
+Position: 86  Artist: Travis Scott Track Name: "HIGHEST IN THE ROOM (feat. ROSALÃ�A & Lil Baby) - REMIX"
+
+Position: 47  Artist: Travis Scott Track Name: "HIGHEST IN THE ROOM"
+
+Position: 186  Artist: Travis Scott Track Name: "goosebumps"
+
+Position: 9  Artist: Trevor Daniel Track Name: "Falling"
+
+Position: 48  Artist: Tyga Track Name: "Ayy Macarena"
+
+Position: 155  Artist: Ufo361 Track Name: "Big Drip"
+
+Position: 198  Artist: XXXTENTACION Track Name: "Moonlight"
+
+Position: 156  Artist: XXXTENTACION Track Name: "SAD!"
+
+Position: 177  Artist: XXXTENTACION Track Name: "Jocelyn Flores"
+
+Position: 75  Artist: Y2K Track Name: "Lalala"
+
+Position: 187  Artist: YNW Melly Track Name: "223's (feat. 9lokknine)"
+
+Position: 36  Artist: YNW Melly Track Name: "Suicidal"
+
+Position: 178  Artist: Young Thug Track Name: "Hot (Remix) [feat. Gunna and Travis Scott]"
+
+PRINTED FROM ARRAY
+------------------
+Position
+"Track Name"
+Artist
+Streams
+URL
+null
+------------------
+200
+"Youngblood"
+5 Seconds of Summer
+5124680
+https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE
+Appears: 1 times
+------------------
+116
+"Alone Pt. II"
+Alan Walker
+7047512
+https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3
+Appears: 1 times
+------------------
+107
+"It's You"
+Ali Gatie
+7757509
+https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29
+Appears: 1 times
+------------------
+103
+"Yellow Hearts"
+Ant Saunders
+7910766
+https://open.spotify.com/track/2W4yABdLc4Jnds67Poi5Nl
+Appears: 1 times
+------------------
+45
+"China"
+Anuel AA
+11911525
+https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK
+Appears: 1 times
+------------------
+158
+"Infeliz"
+Arcangel
+5868668
+https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m
+Appears: 1 times
+------------------
+169
+"thank u next"
+Ariana Grande
+5632983
+https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ
+Appears: 2 times
+------------------
+87
+"7 rings"
+Ariana Grande
+8553234
+https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF
+Appears: 2 times
+------------------
+130
+"FML"
+Arizona Zervas
+6602053
+https://open.spotify.com/track/6lruHh1jF7ezgbLv72xYmf
+Appears: 2 times
+------------------
+8
+"ROXANNE"
+Arizona Zervas
+32102084
+https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+Appears: 2 times
+------------------
+154
+"Sweet but Psycho"
+Ava Max
+6030412
+https://open.spotify.com/track/25sgk305KZfyuqVBQIahim
+Appears: 1 times
+------------------
+84
+"Callaita"
+Bad Bunny
+8645221
+https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI
+Appears: 2 times
+------------------
+31
+"Vete"
+Bad Bunny
+14898265
+https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c
+Appears: 2 times
+------------------
+164
+"Eastside (with Halsey & Khalid)"
+benny blanco
+5792803
+https://open.spotify.com/track/7FGq80cy8juXBCD2nrqdWU
+Appears: 1 times
+------------------
+23
+"bad guy"
+Billie Eilish
+16405196
+https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m
+Appears: 6 times
+------------------
+88
+"lovely (with Khalid)"
+Billie Eilish
+8520393
+https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4
+Appears: 6 times
+------------------
+92
+"when the party's over"
+Billie Eilish
+8326950
+https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I
+Appears: 6 times
+------------------
+172
+"bury a friend"
+Billie Eilish
+5609959
+https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF
+Appears: 6 times
+------------------
+173
+"ocean eyes"
+Billie Eilish
+5592630
+https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU
+Appears: 6 times
+------------------
+13
+"everything i wanted"
+Billie Eilish
+21786149
+https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ
+Appears: 6 times
+------------------
+137
+"me & ur ghost"
+blackbear
+6511851
+https://open.spotify.com/track/4yJiXq86uM56uIfIZgE440
+Appears: 2 times
+------------------
+29
+"hot girl bummer"
+blackbear
+15114079
+https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku
+Appears: 2 times
+------------------
+46
+"SUGAR"
+BROCKHAMPTON
+11904637
+https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA
+Appears: 1 times
+------------------
+19
+"Black Swan"
+BTS
+18424710
+https://open.spotify.com/track/24NuEDgyRIljwSyY0lsr7b
+Appears: 2 times
+------------------
+165
+"Boy With Luv (feat. Halsey)"
+BTS
+5781676
+https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c
+Appears: 2 times
+------------------
+176
+"Liar"
+Camila Cabello
+5556337
+https://open.spotify.com/track/073ILU1C3APNRGF66VhtyA
+Appears: 2 times
+------------------
+25
+"My Oh My (feat. DaBaby)"
+Camila Cabello
+16246433
+https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K
+Appears: 2 times
+------------------
+143
+"Tutu"
+Camilo
+6327743
+https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ
+Appears: 1 times
+------------------
+160
+"No Guidance (feat. Drake)"
+Chris Brown
+5834488
+https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX
+Appears: 1 times
+------------------
+183
+"Maniac"
+Conan Gray
+5456506
+https://open.spotify.com/track/7hpJ9tATWb2vztlq99hERP
+Appears: 1 times
+------------------
+97
+"VIBEZ"
+DaBaby
+8197804
+https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM
+Appears: 4 times
+------------------
+181
+"Suge"
+DaBaby
+5462570
+https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB
+Appears: 4 times
+------------------
+89
+"TOES (feat. Lil Baby & Moneybagg Yo)"
+DaBaby
+8407521
+https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG
+Appears: 4 times
+------------------
+33
+"BOP"
+DaBaby
+14163167
+https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN
+Appears: 4 times
+------------------
+191
+"Con Calma"
+Daddy Yankee
+5302464
+https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m
+Appears: 2 times
+------------------
+101
+"Que Tire Pa Lante"
+Daddy Yankee
+8007941
+https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1
+Appears: 2 times
+------------------
+114
+"Bellaquita - Remix"
+Dalex
+7077703
+https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA
+Appears: 2 times
+------------------
+41
+"Hola - Remix"
+Dalex
+12526399
+https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt
+Appears: 2 times
+------------------
+67
+"10000 Hours (with Justin Bieber)"
+Dan + Shay
+9632834
+https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa
+Appears: 1 times
+------------------
+199
+"Be Alright"
+Dean Lewis
+5167120
+https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy
+Appears: 1 times
+------------------
+28
+"Sigues Con El"
+Dimelo Flow
+15207363
+https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3
+Appears: 1 times
+------------------
+174
+"Loco Contigo (feat. J. Balvin & Tyga)"
+DJ Snake
+5561516
+https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx
+Appears: 1 times
+------------------
+43
+"Say So"
+Doja Cat
+12325839
+https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ
+Appears: 1 times
+------------------
+188
+"3 Nights"
+Dominic Fike
+5390516
+https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX
+Appears: 1 times
+------------------
+37
+"No Idea"
+Don Toliver
+13281093
+https://open.spotify.com/track/3VyjsVV24RmBIbWJAeUJNu
+Appears: 1 times
+------------------
+131
+"Money In The Grave (Drake ft. Rick Ross)"
+Drake
+6598862
+https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb
+Appears: 1 times
+------------------
+10
+"Don't Start Now"
+Dua Lipa
+28228768
+https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg
+Appears: 1 times
+------------------
+142
+"Shape of You"
+Ed Sheeran
+6351986
+https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+Appears: 5 times
+------------------
+50
+"I Don't Care (with Justin Bieber)"
+Ed Sheeran
+11679460
+https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9
+Appears: 5 times
+------------------
+60
+"Beautiful People (feat. Khalid)"
+Ed Sheeran
+10419420
+https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv
+Appears: 5 times
+------------------
+65
+"South of the Border (feat. Camila Cabello & Cardi B)"
+Ed Sheeran
+9819626
+https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk
+Appears: 5 times
+------------------
+171
+"Perfect"
+Ed Sheeran
+5619894
+https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v
+Appears: 5 times
+------------------
+146
+"Hate Me (with Juice WRLD)"
+Ellie Goulding
+6177336
+https://open.spotify.com/track/6kls8cSlUyHW2BUOkDJIZE
+Appears: 1 times
+------------------
+52
+"In Too Deep"
+Eminem
+11348893
+https://open.spotify.com/track/7Dj2wqPYXfSRFwa6qyOztr
+Appears: 18 times
+------------------
+90
+"Never Love Again"
+Eminem
+8335790
+https://open.spotify.com/track/40YbWniIEmqy6s58fYXLUh
+Appears: 18 times
+------------------
+57
+"Premonition - Intro"
+Eminem
+10830400
+https://open.spotify.com/track/7ccTcabbJlCJiIqtrSSwBk
+Appears: 18 times
+------------------
+94
+"Farewell"
+Eminem
+8277608
+https://open.spotify.com/track/74gykWHknHDrg4eMdcmdRq
+Appears: 18 times
+------------------
+30
+"You Gonâ€™ Learn (feat. Royce Da 5'9"" & White Gold)"
+Eminem
+14947053
+https://open.spotify.com/track/0GQ5bFTVFFKpwNPc7KwQnB
+Appears: 18 times
+------------------
+100
+"Alfred - Interlude"
+Eminem
+8030151
+https://open.spotify.com/track/4EmunTy7kNBYQivOa8F6b8
+Appears: 18 times
+------------------
+26
+"Darkness"
+Eminem
+15658341
+https://open.spotify.com/track/5SiZJoLXp3WOl3J4C8IK0d
+Appears: 18 times
+------------------
+102
+"Little Engine"
+Eminem
+7913461
+https://open.spotify.com/track/4qNWEOMyexn7b8Icyk29t9
+Appears: 18 times
+------------------
+44
+"Leaving Heaven (feat. Skylar Grey)"
+Eminem
+11944780
+https://open.spotify.com/track/5CpsIb7SMFHjmAG8RvIWfq
+Appears: 18 times
+------------------
+70
+"No Regrets (feat. Don Toliver)"
+Eminem
+9493884
+https://open.spotify.com/track/1lO9CZo6eDrOy0S7khgryG
+Appears: 18 times
+------------------
+113
+"I Will (feat. KXNG Crooked Royce Da 5'9"" & Joell Ortiz)"
+Eminem
+7115414
+https://open.spotify.com/track/3CJbxqRQ0JNCqboWDNUUeX
+Appears: 18 times
+------------------
+72
+"Lock It Up (feat. Anderson .Paak)"
+Eminem
+9328951
+https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh
+Appears: 18 times
+------------------
+73
+"Marsh"
+Eminem
+9260007
+https://open.spotify.com/track/34d7sGX6WUqq8f04e7CSNF
+Appears: 18 times
+------------------
+74
+"Stepdad"
+Eminem
+9159901
+https://open.spotify.com/track/3QVHSV8YKYq4L8tI5rnFgj
+Appears: 18 times
+------------------
+83
+"Yah Yah (feat. Royce Da 5'9""Black Thought Q-Tip & Denaun)"
+Eminem
+8695060
+https://open.spotify.com/track/5mZXWEH2eh8zMZGCxT5aW0
+Appears: 18 times
+------------------
+32
+"Unaccommodating (feat. Young M.A)"
+Eminem
+14792747
+https://open.spotify.com/track/0q2vG0UVuy6ajjcpkQHdZM
+Appears: 18 times
+------------------
+4
+"Godzilla (feat. Juice WRLD)"
+Eminem
+40637125
+https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ
+Appears: 18 times
+------------------
+22
+"Those Kinda Nights (feat. Ed Sheeran)"
+Eminem
+16416620
+https://open.spotify.com/track/0VSzREd1OjEWJ9tXoFHRQH
+Appears: 18 times
+------------------
+6
+"Life Is Good (feat. Drake)"
+Future
+34200687
+https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc
+Appears: 1 times
+------------------
+167
+"Dans l'espace (feat. Heuss l'EnfoirÃ©)"
+Gambi
+5678754
+https://open.spotify.com/track/2KAkkba3PaYFegfmYpUITv
+Appears: 1 times
+------------------
+16
+"You should be sad"
+Halsey
+19736651
+https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK
+Appears: 4 times
+------------------
+80
+"Without Me"
+Halsey
+8884872
+https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ
+Appears: 4 times
+------------------
+115
+"Still Learning"
+Halsey
+7050815
+https://open.spotify.com/track/2Mfv5HaqnI18Q9JRv9hqnn
+Appears: 4 times
+------------------
+112
+"Graveyard"
+Halsey
+7144766
+https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67
+Appears: 4 times
+------------------
+121
+"Lights Up"
+Harry Styles
+6827679
+https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb
+Appears: 4 times
+------------------
+149
+"Falling"
+Harry Styles
+6130644
+https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp
+Appears: 4 times
+------------------
+39
+"Watermelon Sugar"
+Harry Styles
+12650858
+https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY
+Appears: 4 times
+------------------
+24
+"Adore You"
+Harry Styles
+16285662
+https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7
+Appears: 4 times
+------------------
+129
+"Liberdade ProvisÃ³ria"
+Henrique & Juliano
+6736976
+https://open.spotify.com/track/1vG3YuKRYqPwTmNmYgqkpg
+Appears: 1 times
+------------------
+124
+"Believer"
+Imagine Dragons
+6807552
+https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP
+Appears: 1 times
+------------------
+99
+"Blanco"
+J Balvin
+8039574
+https://open.spotify.com/track/2rc7BkzO8qepMFAxHtOrXc
+Appears: 4 times
+------------------
+195
+"QUE PRETENDES"
+J Balvin
+5259677
+https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt
+Appears: 4 times
+------------------
+56
+"Morado"
+J Balvin
+11078196
+https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks
+Appears: 4 times
+------------------
+78
+"LA CANCIÃ“N"
+J Balvin
+8939004
+https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18
+Appears: 4 times
+------------------
+196
+"MIDDLE CHILD"
+J. Cole
+5241716
+https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8
+Appears: 1 times
+------------------
+136
+"OUT WEST (feat. Young Thug)"
+JACKBOYS
+6550101
+https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw
+Appears: 1 times
+------------------
+161
+"Say You Won't Let Go"
+James Arthur
+5832673
+https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh
+Appears: 1 times
+------------------
+81
+"No Me Conoce - Remix"
+Jhay Cortez
+8825480
+https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P
+Appears: 1 times
+------------------
+117
+"Sucker"
+Jonas Brothers
+7006878
+https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD
+Appears: 3 times
+------------------
+27
+"What A Man Gotta Do"
+Jonas Brothers
+15362782
+https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd
+Appears: 3 times
+------------------
+175
+"Only Human"
+Jonas Brothers
+5559780
+https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk
+Appears: 3 times
+------------------
+68
+"If The World Was Ending (feat. Julia Michaels)"
+JP Saxe
+9600536
+https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ
+Appears: 1 times
+------------------
+53
+"Bandit (with YoungBoy Never Broke Again)"
+Juice WRLD
+11296952
+https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd
+Appears: 3 times
+------------------
+127
+"Robbery"
+Juice WRLD
+6738947
+https://open.spotify.com/track/6Hj9jySrnFppAI0sEMCZpJ
+Appears: 3 times
+------------------
+61
+"Lucid Dreams"
+Juice WRLD
+10226445
+https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR
+Appears: 3 times
+------------------
+76
+"Kein Wort"
+Juju
+9118365
+https://open.spotify.com/track/1hoLUVBx0ixX3kn0EX0P5n
+Appears: 1 times
+------------------
+5
+"Yummy"
+Justin Bieber
+34586419
+https://open.spotify.com/track/41L3O37CECZt3N7ziG2z7l
+Appears: 1 times
+------------------
+193
+"DJ No Pare (feat. Zion  Dalex & Lenny TavÃ¡rez) - Remix"
+Justin Quiles
+5273730
+https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6
+Appears: 1 times
+------------------
+3
+"Tusa"
+KAROL G
+41434019
+https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY
+Appears: 1 times
+------------------
+64
+"Eleven"
+Khalid
+9835375
+https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74
+Appears: 1 times
+------------------
+163
+"Can We Kiss Forever?"
+Kina
+5802085
+https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne
+Appears: 2 times
+------------------
+159
+"Get You The Moon (feat. SnÃ¸w)"
+Kina
+5849842
+https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa
+Appears: 2 times
+------------------
+166
+"Higher Love"
+Kygo
+5684696
+https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY
+Appears: 1 times
+------------------
+96
+"Shallow"
+Lady Gaga
+8223523
+https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B
+Appears: 1 times
+------------------
+108
+"Mean It"
+Lauv
+7599648
+https://open.spotify.com/track/2uiOyiRxtNix52dpeaDQPM
+Appears: 2 times
+------------------
+197
+"I Like Me Better"
+Lauv
+5227444
+https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ
+Appears: 2 times
+------------------
+122
+"Bruises"
+Lewis Capaldi
+6819066
+https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG
+Appears: 3 times
+------------------
+17
+"Someone You Loved"
+Lewis Capaldi
+19523711
+https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+Appears: 3 times
+------------------
+35
+"Before You Go"
+Lewis Capaldi
+13993666
+https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP
+Appears: 3 times
+------------------
+126
+"Sum 2 Prove"
+Lil Baby
+6772472
+https://open.spotify.com/track/2u3EyuCqqV31woqGvO9LBz
+Appears: 2 times
+------------------
+123
+"Woah"
+Lil Baby
+6814310
+https://open.spotify.com/track/598yNsG1JFrGd4n2kMoz7F
+Appears: 2 times
+------------------
+104
+"Old Town Road - Remix"
+Lil Nas X
+7910494
+https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG
+Appears: 1 times
+------------------
+106
+"Ransom"
+Lil Tecca
+7877635
+https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO
+Appears: 1 times
+------------------
+58
+"Futsal Shuffle 2020"
+Lil Uzi Vert
+10699707
+https://open.spotify.com/track/2Ec33AVlkTTq8BHFgBTdQs
+Appears: 1 times
+------------------
+141
+"Good as Hell (feat. Ariana Grande) - Remix"
+Lizzo
+6417238
+https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd
+Appears: 2 times
+------------------
+162
+"Truth Hurts"
+Lizzo
+5828957
+https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh
+Appears: 2 times
+------------------
+109
+"Aventura"
+Lunay
+7519215
+https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon
+Appears: 2 times
+------------------
+151
+"Soltera - Remix"
+Lunay
+6064364
+https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z
+Appears: 2 times
+------------------
+91
+"Woods"
+Mac Miller
+8329349
+https://open.spotify.com/track/3Qa944OTMZkg8DHjET8JQv
+Appears: 12 times
+------------------
+38
+"Blue World"
+Mac Miller
+12762791
+https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5
+Appears: 12 times
+------------------
+62
+"I Can See"
+Mac Miller
+10086930
+https://open.spotify.com/track/3R8CyhJfVjvgIROd5RSGhQ
+Appears: 12 times
+------------------
+69
+"Hand Me Downs"
+Mac Miller
+9521654
+https://open.spotify.com/track/2Yv2mHzr5AQavVdwQjEokV
+Appears: 12 times
+------------------
+148
+"Once A Day"
+Mac Miller
+6159873
+https://open.spotify.com/track/26G5nmIx7Yvq79bIIluyZV
+Appears: 12 times
+------------------
+49
+"Circles"
+Mac Miller
+11781966
+https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT
+Appears: 12 times
+------------------
+98
+"Everybody"
+Mac Miller
+8172098
+https://open.spotify.com/track/1OuN92HcVG6NVpWbeESNB3
+Appears: 12 times
+------------------
+118
+"Surf"
+Mac Miller
+6960699
+https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR
+Appears: 12 times
+------------------
+157
+"Hands"
+Mac Miller
+5934464
+https://open.spotify.com/track/6CrnvqCxBKVWahSiQwOesM
+Appears: 12 times
+------------------
+71
+Complicated
+Mac Miller
+9443725
+https://open.spotify.com/track/3WfSNAoj2D8C9noPSGZZFM
+Appears: 12 times
+------------------
+14
+"Good News"
+Mac Miller
+21727425
+https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY
+Appears: 12 times
+------------------
+139
+"That's On Me"
+Mac Miller
+6462701
+https://open.spotify.com/track/0udOCZp7yk0Ml92C0k8H8D
+Appears: 12 times
+------------------
+168
+"Blanche"
+Maes
+5656775
+https://open.spotify.com/track/5GyyPRvEwdI4wJSUbzxHQv
+Appears: 1 times
+------------------
+11
+"Memories"
+Maroon 5
+24516744
+https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM
+Appears: 2 times
+------------------
+170
+"Girls Like You (feat. Cardi B)"
+Maroon 5
+5623552
+https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8
+Appears: 2 times
+------------------
+111
+"Happier"
+Marshmello
+7358042
+https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99
+Appears: 1 times
+------------------
+132
+"Break My Stride"
+Matthew Wilder
+6596199
+https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT
+Appears: 1 times
+------------------
+144
+"Piece Of Your Heart"
+MEDUZA
+6326537
+https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs
+Appears: 2 times
+------------------
+42
+"Lose Control"
+MEDUZA
+12332126
+https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK
+Appears: 2 times
+------------------
+54
+"Ballin' (with Roddy Ricch)"
+Mustard
+11242147
+https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY
+Appears: 1 times
+------------------
+63
+"MuÃ©velo"
+Nicky Jam
+9994382
+https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ
+Appears: 2 times
+------------------
+66
+"Whine Up"
+Nicky Jam
+9789425
+https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0
+Appears: 2 times
+------------------
+110
+"July"
+Noah Cyrus
+7419268
+https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr
+Appears: 1 times
+------------------
+185
+"All I Want - From ""High School Musical: The Musical: The Series"""
+Olivia Rodrigo
+5432071
+https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW
+Appears: 1 times
+------------------
+192
+"High Hopes"
+Panic! At The Disco
+5278651
+https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom
+Appears: 1 times
+------------------
+182
+"Pa' Olvidarme De Ella"
+Piso 21
+5461249
+https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh
+Appears: 1 times
+------------------
+134
+"rockstar (feat. 21 Savage)"
+Post Malone
+6582513
+https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt
+Appears: 6 times
+------------------
+12
+"Circles"
+Post Malone
+23997809
+https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+Appears: 6 times
+------------------
+119
+"Wow."
+Post Malone
+6905426
+https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg
+Appears: 6 times
+------------------
+189
+"Better Now"
+Post Malone
+5344311
+https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK
+Appears: 6 times
+------------------
+51
+"Sunflower - Spider-Man: Into the Spider-Verse"
+Post Malone
+11659246
+https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY
+Appears: 6 times
+------------------
+95
+"Goodbyes (Feat. Young Thug)"
+Post Malone
+8270333
+https://open.spotify.com/track/6vBdBCoOhKHiYDDOcorfNo
+Appears: 6 times
+------------------
+138
+"Bohemian Rhapsody - 2011 Mix"
+Queen
+6488962
+https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv
+Appears: 1 times
+------------------
+40
+"Fantasias"
+Rauw Alejandro
+12612009
+https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy
+Appears: 1 times
+------------------
+128
+"Psycho"
+Red Velvet
+6737905
+https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK
+Appears: 1 times
+------------------
+34
+"Ride It"
+Regard
+14011559
+https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ
+Appears: 1 times
+------------------
+125
+"Indeciso"
+Reik
+6802014
+https://open.spotify.com/track/59s0s39NFWScuHDbHytI14
+Appears: 1 times
+------------------
+120
+"Quizas"
+Rich Music LTD
+6895245
+https://open.spotify.com/track/5Id5B3dxJZhPcV9GzgYZZe
+Appears: 2 times
+------------------
+150
+"Perreo en La Luna"
+Rich Music LTD
+6110141
+https://open.spotify.com/track/0RDgqtvOHLwcI6yz9bjsZV
+Appears: 2 times
+------------------
+180
+"Turn Me On (feat. Vula)"
+Riton
+5463950
+https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9
+Appears: 1 times
+------------------
+2
+"The Box"
+Roddy Ricch
+48937592
+https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+Appears: 2 times
+------------------
+82
+"High Fashion (feat. Mustard)"
+Roddy Ricch
+8743684
+https://open.spotify.com/track/07KXEDMj78x68D884wgVEm
+Appears: 2 times
+------------------
+184
+"Con Altura"
+ROSALÃ�A
+5442011
+https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM
+Appears: 2 times
+------------------
+145
+"Yo x Ti Tu x Mi"
+ROSALÃ�A
+6325620
+https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk
+Appears: 2 times
+------------------
+59
+"Roses - Imanbek Remix"
+SAINt JHN
+10422551
+https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI
+Appears: 1 times
+------------------
+153
+"Dancing With A Stranger (with Normani)"
+Sam Smith
+6036480
+https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki
+Appears: 2 times
+------------------
+93
+"How Do You Sleep?"
+Sam Smith
+8311213
+https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y
+Appears: 2 times
+------------------
+194
+"Otro Trago - Remix"
+Sech
+5266734
+https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL
+Appears: 2 times
+------------------
+133
+"Si Te Vas"
+Sech
+6587158
+https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0
+Appears: 2 times
+------------------
+20
+"Lose You To Love Me"
+Selena Gomez
+17714002
+https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi
+Appears: 3 times
+------------------
+147
+"Look At Her Now"
+Selena Gomez
+6167911
+https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr
+Appears: 3 times
+------------------
+21
+"Rare"
+Selena Gomez
+17524322
+https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19
+Appears: 3 times
+------------------
+79
+"Trampoline (with ZAYN)"
+SHAED
+8918528
+https://open.spotify.com/track/2ez6qvOTHKeI3ss80NGqnI
+Appears: 1 times
+------------------
+55
+"Me Gusta"
+Shakira
+11157044
+https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a
+Appears: 1 times
+------------------
+190
+"If I Can't Have You"
+Shawn Mendes
+5315599
+https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh
+Appears: 2 times
+------------------
+18
+"SeÃ±orita"
+Shawn Mendes
+19265338
+https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2
+Appears: 2 times
+------------------
+105
+"Own It (feat. Ed Sheeran & Burna Boy)"
+Stormzy
+7909077
+https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR
+Appears: 1 times
+------------------
+140
+"Sunday Best"
+Surfaces
+6450550
+https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo
+Appears: 1 times
+------------------
+85
+"Adicto (with Anuel AA & Ozuna)"
+Tainy
+8623148
+https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq
+Appears: 1 times
+------------------
+15
+"RITMO (Bad Boys For Life)"
+The Black Eyed Peas
+21103190
+https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf
+Appears: 1 times
+------------------
+7
+"Blinding Lights"
+The Weeknd
+33551309
+https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+Appears: 2 times
+------------------
+77
+"Heartless"
+The Weeknd
+8982670
+https://open.spotify.com/track/57vxBYXtHMk6H1aD29V7PU
+Appears: 2 times
+------------------
+179
+"Tudo Ok"
+Thiaguinho MT
+5464284
+https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS
+Appears: 1 times
+------------------
+135
+"Never Seen the Rain"
+Tones and I
+6559332
+https://open.spotify.com/track/2grAr8pWMuLWn8ZYEE9wDV
+Appears: 2 times
+------------------
+1
+"Dance Monkey"
+Tones and I
+50409214
+https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+Appears: 2 times
+------------------
+152
+"SICKO MODE"
+Travis Scott
+6054039
+https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+Appears: 4 times
+------------------
+86
+"HIGHEST IN THE ROOM (feat. ROSALÃ�A & Lil Baby) - REMIX"
+Travis Scott
+8594049
+https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn
+Appears: 4 times
+------------------
+47
+"HIGHEST IN THE ROOM"
+Travis Scott
+11867232
+https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW
+Appears: 4 times
+------------------
+186
+"goosebumps"
+Travis Scott
+5421097
+https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2
+Appears: 4 times
+------------------
+9
+"Falling"
+Trevor Daniel
+28606316
+https://open.spotify.com/track/4TnjEaWOeW0eKTKIEvJyCa
+Appears: 1 times
+------------------
+48
+"Ayy Macarena"
+Tyga
+11820301
+https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX
+Appears: 1 times
+------------------
+155
+"Big Drip"
+Ufo361
+6010373
+https://open.spotify.com/track/4qOesAYiMiMFiZrn2wfkl6
+Appears: 1 times
+------------------
+198
+"Moonlight"
+XXXTENTACION
+5183159
+https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL
+Appears: 3 times
+------------------
+156
+"SAD!"
+XXXTENTACION
+5971837
+https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2
+Appears: 3 times
+------------------
+177
+"Jocelyn Flores"
+XXXTENTACION
+5546921
+https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96
+Appears: 3 times
+------------------
+75
+"Lalala"
+Y2K
+9129776
+https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo
+Appears: 1 times
+------------------
+187
+"223's (feat. 9lokknine)"
+YNW Melly
+5400709
+https://open.spotify.com/track/29ZXwWOOLz9t5fa3eT3i7T
+Appears: 2 times
+------------------
+36
+"Suicidal"
+YNW Melly
+13981574
+https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8
+Appears: 2 times
+------------------
+178
+"Hot (Remix) [feat. Gunna and Travis Scott]"
+Young Thug
+5485603
+https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m
+Appears: 1 times
