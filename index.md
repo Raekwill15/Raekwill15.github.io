@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Raekwon Williams - Online Portfolio</title> 
@@ -40,8 +40,3 @@ Phone Number: (347)-972-9506 </p>
 <li><a href="hw1.html">Homework1 </a>
 <li><a href="hw2.html">Homework2 </a>
 <li><a href="hw3.html">Homework3 </a>
-</ul>
-
-
-</body>
-</html>
