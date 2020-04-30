@@ -36,7 +36,7 @@ Phone Number: (347)-972-9506 </p>
 <ul class="navbar">
 <br>
 <h4><u>Class Homeworks:</u></h4>
-<li><a href="index.md">Home</a>
+<li><a href="index.html">Home</a>
 <li><a href="hw1.html">Homework1 </a>
 <li><a href="hw2.html">Homework2 </a>
 <li><a href="hw3.html">Homework3 </a>
