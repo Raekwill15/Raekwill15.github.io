@@ -17,7 +17,7 @@ Computer Science Major at Brooklyn College. I enjoy programming and have a deep 
 in computers. I haven't had any projects outside of school yet but I hope to <br>
 have a career as either a software or an app developer after graduating. In my free<br>
 time I'm either playing video games, watching anime or eating something delicious. My website<br>
-is lacking at the moment but feel free to contact me by the email or phone number below. <br>
+is lacking at the moment but feel free to contact me by the email below. <br>
 </p>
 <br><hr>
 
@@ -31,7 +31,7 @@ is lacking at the moment but feel free to contact me by the email or phone numbe
 
 <h2> Contact Information </h2>
 <p>Email:<a href="mailto:Raekwill15@gmail.com"> Raekwill15@gmail.com</a> <br>
-Phone Number: (347)-972-9506 </p>
+</p>
 
 <ul class="navbar">
 <br>
